@@ -19,6 +19,7 @@ class Solution {
                 // Move towards the middle if characters are the same
                 left++; 
                 right--;
+                int a;
             }
         }
         return true;  // The string is a palindrome if the loop completes
